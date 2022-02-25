@@ -6,6 +6,7 @@ public class Ocv1 {
         if(0==0){
             System.out.println("zaikhga");
         }
-
+        System.out.println("zaikFDDFhga");
+        System.out.println("zaikhga");
     }
 }
