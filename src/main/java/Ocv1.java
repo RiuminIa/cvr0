@@ -4,7 +4,7 @@ public class Ocv1 {
         System.out.println("hhhhiiiii");
         System.out.println("zai");
         if(0==0){
-            System.out.println("zaika");
+            System.out.println("zaikhga");
         }
 
     }
